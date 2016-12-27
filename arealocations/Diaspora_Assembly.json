@@ -1,0 +1,28 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Diaspora* Baugruppe",
+        "en": "Diaspora* Assembly"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [207.94, 154.62],
+                [211.19, 156.38],
+                [208.06, 160.94],
+                [203.56, 158.12],
+                [204.44, 155.44],
+                [206.31, 156.75],
+                [207.94, 154.62]
+            ]
+        ]
+    }
+}
